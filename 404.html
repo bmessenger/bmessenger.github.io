@@ -1,0 +1,33 @@
+---
+layout: default
+---
+
+<div class="fourzerofour">
+	<h2>Well gosh darn it!</h2>
+	<p>Are you lost?</p>
+	<p>I have 2 coins in my pocket totaling 15 cents.<br />
+	   One of them is not a nickel.<br />
+	   What are the 2 coins?</p>
+	<p><input placeholder="Coin 1" type="text" name="coin1" id="coin1"/></p>
+	<p><input placeholder="Coin 2" type="text" name="coin2" id="coin2"/></p>
+	<p><button type="submit" id="ifeeldumb">Ok I'll Bite</button></p>
+	<div id="lucky"></div>
+	<script type="text/javascript">
+		document.getElementById("ifeeldumb").onclick = function() {
+			yourewrong();
+		};
+		function yourewrong() {
+			var coin1 = document.getElementById("coin1").value;
+			var coin2 = document.getElementById("coin2").value;
+			var lucky = document.getElementById("lucky");
+			if (coin1 == coin2) {
+				lucky.innerHTML = "Um, No.";
+			} else if ((coin1 == "dime" || coin1 == "nickel") && (coin2 == "dime" || coin2 == "nickel")) {
+				lucky.innerHTML = "Ok, so you got lucky. Bye Bye.";
+				setTimeout(function(){window.location.href = 'https://www.youtube.com/watch?v=bhPrOsHWjl0';}, 2000);
+			} else {
+				lucky.innerHTML = "Yawn.  Try again. <br />Hint: Try typing the names of the coins in all lowercase, dummy.";
+			}
+		}
+	</script>
+</div>
