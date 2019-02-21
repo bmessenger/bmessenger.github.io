@@ -7,7 +7,7 @@ layout: default
 
 ## Website Development
 
-Before you start scratching your head you should know that this portfolio site isn't meant to be flashy, actually quite the opposite.  If you're interested in viewing some of my more recent work check out the links below.  I currently work with a talented team at <a href="https://thegrove.co" target="_blank">The Grove</a> and also entertain a bit of freelance work.
+Hey there, thanks for dropping in.  My name is Brad and I build and maintain custom websites. This is a portfolio site and isn't meant to be flashy, actually quite the opposite.  If you're interested in viewing some of my more recent work check out the links below.  I currently work with a talented team at <a href="https://thegrove.co" target="_blank">The Grove</a> and also entertain a bit of freelance work.
 
 ## Recent Builds
 
