@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
+title: Brad Messenger | Asheville Web Developer
 ---
 
 ## Website Development
