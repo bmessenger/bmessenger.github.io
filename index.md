@@ -19,7 +19,6 @@ Hi there, welcome. I'm Brad and this is my portfolio site. It isn't meant to be 
 * <a href="https://www.samsoncorporation.com" target="_blank">samsoncorporation.com
 * <a href="https://www.blueridgeheritage.com" target="_blank">blueridgeheritage.com
 * <a href="https://business.htb.com" target="_blank">business.htb.com
-* <a href="https://www.microtechknives.com" target="_blank">microtechknives.com</a>
 * <a href="http://www.visitsmokies.org" target="_blank">visitsmokies.org</a>
 * <a href="https://www.integritive.com" target="_blank">integritive.com</a>
 * <a href="https://www.greenbuilt.org" target="_blank">greenbuilt.org
