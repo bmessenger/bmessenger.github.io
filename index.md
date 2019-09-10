@@ -12,7 +12,7 @@ Hi there, welcome. I'm Brad and this is my portfolio site. It isn't meant to be 
 
 ## Recent Builds
 
-* <a href="https://metronome.io" target="_blank">metronome.io</a>  &nbsp; \| &nbsp;  <a href="https://medium.com/@MetronomeToken/website-update-metronome-io-95e7b63c8186" target="_blank">\[more\]</a>
+* <a href="https://metronome.io" target="_blank">metronome.io</a>  &nbsp;  <a href="https://medium.com/@MetronomeToken/website-update-metronome-io-95e7b63c8186" target="_blank">...more</a>
 * <a href="https://mgstover.com" target="_blank">mgstover.com</a>
 * <a href="https://bloq.cloud" target="_blank">bloq.cloud</a>
 * <a href="https://eclipse.io" target="_blank">eclipse.io</a>
