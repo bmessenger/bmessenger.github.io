@@ -24,7 +24,6 @@ Hi there, welcome. I'm Brad and this is my portfolio site. It isn't meant to be 
 * <a href="https://www.blueridgeheritage.com" target="_blank">blueridgeheritage.com
 * <a href="https://business.htb.com" target="_blank">business.htb.com
 * <a href="http://www.visitsmokies.org" target="_blank">visitsmokies.org</a>
-* <a href="https://www.integritive.com" target="_blank">integritive.com</a>
 * <a href="https://www.greenbuilt.org" target="_blank">greenbuilt.org
 * <a href="http://www.theoldwoodco.com" target="_blank">theoldwoodco.com</a>
 * <a href="https://babybabyohbaby.com" target="_blank">babybabyohbaby.com</a>
