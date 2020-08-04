@@ -8,10 +8,13 @@ title: Brad Messenger | Asheville Web Developer
 
 ## Website Development
 
-Hi there, welcome. I'm Brad and this is my portfolio site. It isn't meant to be flashy, actually quite the opposite.  If you're interested in viewing some of my more recent work check out the links below.  I currently work with a talented team at <a href="https://thegrove.co" target="_blank">The Grove</a> and also entertain a bit of freelance work.
+Hello! I'm Brad and this is my portfolio site. It isn't meant to be flashy, actually quite the opposite.  If you're interested in viewing some of my more recent work check out the links below.  I currently work with a talented team at <a href="https://thegrove.co" target="_blank">The Grove</a> and also entertain a bit of freelance work.
 
 ## Recent Builds
 
+* <a href="https://www.bloq.com" target="_blank">bloq.com</a>
+* <a href="https://magmacapitalfunds.com" target="_blank">magmacapitalfunds.com</a>
+* <a href="https://truelook.com" target="_blank">truelook.com</a>
 * <a href="https://metronome.io" target="_blank">metronome.io</a>  &nbsp;  <a href="https://medium.com/@MetronomeToken/website-update-metronome-io-95e7b63c8186" target="_blank">...more</a>
 * <a href="https://mgstover.com" target="_blank">mgstover.com</a>
 * <a href="https://bloq.cloud" target="_blank">bloq.cloud</a>
@@ -28,5 +31,3 @@ Hi there, welcome. I'm Brad and this is my portfolio site. It isn't meant to be 
 * <a href="http://www.theoldwoodco.com" target="_blank">theoldwoodco.com</a>
 * <a href="https://babybabyohbaby.com" target="_blank">babybabyohbaby.com</a>
 * <a href="http://www.cherokeeheritagetrails.com" target="_blank">cherokeeheritagetrails.com</a>
-* <a href="http://www.ncapplefestival.org" target="_blank">ncapplefest.org</a>
-* <a href="http://www.cherokeemuseum.org" target="_blank">cherokeemuseum.org</a>
