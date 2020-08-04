@@ -14,8 +14,9 @@ Hello! I'm Brad and this is my portfolio site. It isn't meant to be flashy, actu
 
 * <a href="https://www.bloq.com" target="_blank">bloq.com</a>
 * <a href="https://magmacapitalfunds.com" target="_blank">magmacapitalfunds.com</a>
-* <a href="https://truelook.com" target="_blank">truelook.com</a>
 * <a href="https://metronome.io" target="_blank">metronome.io</a>  &nbsp;  <a href="https://medium.com/@MetronomeToken/website-update-metronome-io-95e7b63c8186" target="_blank">...more</a>
+* <a href="https://truelook.com" target="_blank">truelook.com</a>
+* <a href="https://help.truelook.com" target="_blank">help.truelook.com</a>
 * <a href="https://mgstover.com" target="_blank">mgstover.com</a>
 * <a href="https://bloq.cloud" target="_blank">bloq.cloud</a>
 * <a href="https://eclipse.io" target="_blank">eclipse.io</a>
@@ -29,5 +30,3 @@ Hello! I'm Brad and this is my portfolio site. It isn't meant to be flashy, actu
 * <a href="http://www.visitsmokies.org" target="_blank">visitsmokies.org</a>
 * <a href="https://www.greenbuilt.org" target="_blank">greenbuilt.org
 * <a href="http://www.theoldwoodco.com" target="_blank">theoldwoodco.com</a>
-* <a href="https://babybabyohbaby.com" target="_blank">babybabyohbaby.com</a>
-* <a href="http://www.cherokeeheritagetrails.com" target="_blank">cherokeeheritagetrails.com</a>
