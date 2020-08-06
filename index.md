@@ -14,7 +14,7 @@ Hello! I'm Brad and this is my portfolio site. It isn't meant to be flashy, actu
 
 * <a href="https://www.bloq.com" target="_blank">bloq.com</a>
 * <a href="https://magmacapitalfunds.com" target="_blank">magmacapitalfunds.com</a>
-* <a href="https://metronome.io" target="_blank">metronome.io</a>  &nbsp;  <a href="https://medium.com/@MetronomeToken/website-update-metronome-io-95e7b63c8186" target="_blank">...more</a>
+* <a href="https://metronome.io" target="_blank">metronome.io</a>
 * <a href="https://truelook.com" target="_blank">truelook.com</a>
 * <a href="https://help.truelook.com" target="_blank">help.truelook.com</a>
 * <a href="https://mgstover.com" target="_blank">mgstover.com</a>
