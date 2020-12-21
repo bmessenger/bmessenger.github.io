@@ -12,6 +12,7 @@ Hello! I'm Brad and this is my portfolio site. It isn't meant to be flashy, actu
 
 ## Recent Builds
 
+* <a href="https://titan.io" target="_blank">titan.io</a>
 * <a href="https://www.bloq.com" target="_blank">bloq.com</a>
 * <a href="https://magmacapitalfunds.com" target="_blank">magmacapitalfunds.com</a>
 * <a href="https://metronome.io" target="_blank">metronome.io</a>
@@ -21,12 +22,9 @@ Hello! I'm Brad and this is my portfolio site. It isn't meant to be flashy, actu
 * <a href="https://bloq.cloud" target="_blank">bloq.cloud</a>
 * <a href="https://eclipse.io" target="_blank">eclipse.io</a>
 * <a href="https://thegrove.co" target="_blank">thegrove.co</a>
-* <a href="https://www.storytellingcenter.net" target="_blank">storytellingcenter.net</a>
 * <a href="https://www.htb.com" target="_blank">hometrustbanking.com</a>
-* <a href="https://www.eaglesnestoutfittersinc.com" target="_blank">eaglesnestoutfittersinc.com
 * <a href="https://www.samsoncorporation.com" target="_blank">samsoncorporation.com
 * <a href="https://www.blueridgeheritage.com" target="_blank">blueridgeheritage.com
 * <a href="https://business.htb.com" target="_blank">business.htb.com
 * <a href="http://www.visitsmokies.org" target="_blank">visitsmokies.org</a>
 * <a href="https://www.greenbuilt.org" target="_blank">greenbuilt.org
-* <a href="http://www.theoldwoodco.com" target="_blank">theoldwoodco.com</a>
