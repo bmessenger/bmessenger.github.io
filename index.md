@@ -12,7 +12,6 @@ Hello! I'm Brad and this is my portfolio site. It isn't meant to be flashy, actu
 
 ## Recent Builds
 
-* <a href="https://titan.io" target="_blank">titan.io</a>
 * <a href="https://www.bloq.com" target="_blank">bloq.com</a>
 * <a href="https://magmacapitalfunds.com" target="_blank">magmacapitalfunds.com</a>
 * <a href="https://metronome.io" target="_blank">metronome.io</a>
