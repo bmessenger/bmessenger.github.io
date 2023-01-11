@@ -8,22 +8,19 @@ title: Brad Messenger | Winston-Salem Web Developer
 
 ## Website Development
 
-Hello! I'm Brad and this is my portfolio site. It isn't meant to be flashy, actually quite the opposite.  If you're interested in viewing some of my more recent work check out the links below.  I currently work with a talented team at <a href="https://thegrove.co" target="_blank">The Grove</a> and also entertain a bit of freelance work.
+ah, there you are.  thanks for dropping by.  my name is Brad Messenger and i'm the lead developer for a creative agency based out of Winston-Salem, NC.  i'm also a husband, father, two-wheeled enthusiast and a fan of most genres of music (main stream country pop is a no go).  i've been extremely busy lately with work and life but if you're interested in viewing some of my more recent work check out the links below.  if you need some help with a project or if you're just looking for a reliable developer feel free to hit me up!
 
 ## Recent Builds
 
+* <a href="https://onrampinvest.com/" target="_blank">onrampinvest.com</a>
+* <a href="https://noteworthy.ag" target="_blank">noteworthy.ag</a>
+* <a href="https://lifetoken.ai" target="_blank">lifetoken.ai</a>
+* <a href="https://onrampinvest.com/" target="_blank">onrampinvest.com</a>
+* <a href="https://hiringsolved.com" target="_blank">hiringsolved.com</a>
+* <a href="https://digitalchamber.org/" target="_blank">digitalchamber.com</a>
+* <a href="https://dcblockchainsummit.com/" target="_blank">dcblockchainsummit.com</a>
 * <a href="https://www.bloq.com" target="_blank">bloq.com</a>
+* <a href="https://stake.bloq.com" target="_blank">stake.bloq.com</a>
 * <a href="https://magmacapitalfunds.com" target="_blank">magmacapitalfunds.com</a>
 * <a href="https://metronome.io" target="_blank">metronome.io</a>
 * <a href="https://truelook.com" target="_blank">truelook.com</a>
-* <a href="https://help.truelook.com" target="_blank">help.truelook.com</a>
-* <a href="https://mgstover.com" target="_blank">mgstover.com</a>
-* <a href="https://bloq.cloud" target="_blank">bloq.cloud</a>
-* <a href="https://eclipse.io" target="_blank">eclipse.io</a>
-* <a href="https://thegrove.co" target="_blank">thegrove.co</a>
-* <a href="https://www.htb.com" target="_blank">hometrustbanking.com</a>
-* <a href="https://www.samsoncorporation.com" target="_blank">samsoncorporation.com
-* <a href="https://www.blueridgeheritage.com" target="_blank">blueridgeheritage.com
-* <a href="https://business.htb.com" target="_blank">business.htb.com
-* <a href="http://www.visitsmokies.org" target="_blank">visitsmokies.org</a>
-* <a href="https://www.greenbuilt.org" target="_blank">greenbuilt.org
